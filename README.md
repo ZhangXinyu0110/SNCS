@@ -7,5 +7,5 @@ To address this issue, we propose a pose and size estimation method that does no
 
 In addition, we construct a Spacecraft Pose and Size Estimation Dataset (SPSED) consisting of 33 types of spacecraft, which is used to train and evaluate the proposed method. Comprehensive experiments demonstrate that our approach effectively adapts to significant shape variations among targets, achieving high pose estimation accuracy, fast inference speed, and strong generalization to unseen instances. 
 
-## CSPED DATASETS
-The CSPED dataset is coming soon
+## SPSED DATASETS
+The SPSED dataset is coming soon
