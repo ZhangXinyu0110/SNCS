@@ -1,5 +1,6 @@
 # SPSE: Pose and Size Estimation of Non-Cooperative Spacecraft via Category-Level Normalized Reference Frame
-![image](https://github.com/ZhangXinyu0110/CSPE-NET/blob/main/CSPE%20NET.png)
+![image](https://github.com/ZhangXinyu0110/SPSE/blob/main/framework.png)
+
 ## abstract
 In recent years, deep learning-based pose estimation methods have attracted increasing attention. However, due to the scarcity of real-world space data, it remains challenging for researchers to obtain large-scale, real-world training datasets with accurate pose annotations.
 
